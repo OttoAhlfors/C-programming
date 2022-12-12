@@ -1,0 +1,18 @@
+Tilastotiedot 15 mittaustuloksesta:
+Liikennetä oli yhteensä 6329 ajoneuvoa, ja keskimäärin 421.9 ajoneuvoa/h.
+Suurin liikennemäärä, 1184 ajoneuvoa, oli 03.
+Pienin liikennemäärä, 63 ajoneuvoa, oli 03.
+
+Kuukausi;Menoliikenne;Paluuliikenne
+Kk 1;487;457
+Kk 2;2309;2431
+Kk 3;51;68
+Kk 4;279;247
+Kk 5;0;0
+Kk 6;0;0
+Kk 7;0;0
+Kk 8;0;0
+Kk 9;0;0
+Kk 10;0;0
+Kk 11;0;0
+Kk 12;0;0
